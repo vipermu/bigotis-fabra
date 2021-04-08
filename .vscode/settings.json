@@ -1,5 +1,4 @@
 {
-    "python.pythonPath": "/Users/victor/miniconda3/envs/chanel/bin/python",
     "python.linting.enabled": true,
     "python.linting.pylintPath": "pylint",
     "editor.formatOnSave": true,
