@@ -1,2 +1,5 @@
 node_modules
 __pycache__
+
+public/environments/img/*
+!public/environments/img/.keep
